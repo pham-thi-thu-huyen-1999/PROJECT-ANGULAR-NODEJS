@@ -1,0 +1,7 @@
+node_modules
+data
+package-lock.json
+frontEnd/node_modules
+frontEnd/package-log.json
+myBackEnd/node_modules
+myBackEnd/package-log.json
